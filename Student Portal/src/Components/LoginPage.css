@@ -51,7 +51,7 @@
 
 #left-side {
   width: 100%;
-  background-image: url(C:\Users\User\OneDrive\Desktop\CODE\0.Main Project\Student Portal\src\assets\building.jpeg);
+  background-image: url(../assets/building.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
